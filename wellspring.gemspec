@@ -7,6 +7,7 @@ require "wellspring/version"
 Gem::Specification.new do |s|
   s.name        = "wellspring"
   s.version     = Wellspring::VERSION
+  s.platform    = Gem::Platform::Ruby
   s.authors     = ["Piotr Chmolowski"]
   s.email       = ["piotr@chmolowski.pl"]
   s.homepage    = "www.todo.com"
