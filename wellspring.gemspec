@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Piotr Chmolowski"]
   s.email       = ["piotr@chmolowski.pl"]
-  s.homepage    = "www.todo.com"
+  s.homepage    = "http://openstudio.nrel.gov"
   s.summary     = "Summary of Wellspring."
   s.description = "Description of Wellspring."
   s.license     = "MIT"
